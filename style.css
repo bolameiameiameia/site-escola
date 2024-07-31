@@ -6,4 +6,9 @@
 .cabecalho {
   background-color:lawngreen;
   color:azure;
+  display: flex;
+  justify-content:space-around;
+  aling-items:center;
+  padding: 24px 0;
+}
   
